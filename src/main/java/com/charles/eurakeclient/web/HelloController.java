@@ -1,4 +1,4 @@
-package com.charles.web;
+package com.charles.eurakeclient.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
